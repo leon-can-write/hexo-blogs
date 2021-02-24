@@ -1,5 +1,5 @@
 ---
-title: HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision
+title: HandMap, Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision
 date: 2020/7/17 16:02
 toc: true
 categories:
